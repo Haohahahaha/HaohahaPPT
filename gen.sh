@@ -14,16 +14,19 @@ GEN_FILE=$GEN/dist/*
 
 # copy source file to working path
 mkdir $GEN
-cp -r $SOURCE $GEN
+cp -r $SOURCE/* $GEN
 
 # generate slides by jyyslide-md
 python3 -m poetry run python $JYYSLIDE_HOME/main.py $1/$1.md
 
+# new target folder
+mkdir -p $TARGET
+
 # copy the results to TARGET folder
-cp -r $GEN_FILE $TARGET
+cp -r $GEN_FILE/* $TARGET
 
 # write new directory entry to README
-echo "\n[$1](./pages/$1/index.html)" >> README.md
+echo $'\n['$1'](./pages/'$1'/index.html)' >> README.md
 
 # submit to Github
-bash auto-update-this-repo.sh
+# bash auto-update-this-repo.sh
