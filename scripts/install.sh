@@ -19,7 +19,6 @@ alias pptnew=\"\$MYSLIDE_SCRIPT/new.sh \$1\"
 alias pptgen=\"\$MYSLIDE_SCRIPT/gen.sh \$1\"
 alias pptopen=\"\$MYSLIDE_SCRIPT/open.sh \$1\"
 " >> ~/.$SHELL_NAME
-
 source ~/.$SHELL_NAME
 
 # new gitignore file
