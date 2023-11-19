@@ -26,7 +26,7 @@ mkdir -p $TARGET
 cp -r $GEN_FILE $TARGET
 
 # write new directory entry to README
-echo $'\n###['$1'](./pages/'$1'/index.html)' >> README.md
+echo $'\n### ['$1'](./pages/'$1'/index.html)' >> README.md
 
 # submit to Github
 bash $MYSLIDE_SCRIPT/auto-update-this-repo.sh
