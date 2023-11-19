@@ -21,3 +21,7 @@ alias pptopen=\"\$MYSLIDE_SCRIPT/open.sh \$1\"
 " >> ~/.$SHELL_NAME
 
 source ~/.$SHELL_NAME
+
+# new gitignore file
+touch .gitignore
+echo "jyyslide-md" >> .gitignore
