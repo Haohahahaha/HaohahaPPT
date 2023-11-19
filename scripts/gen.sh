@@ -4,7 +4,7 @@
 # date: 2023-11-19
 
 # environment variables
-# JYYSILDE_HOME=/home/hanzhe/Documents/jyyslide-md
+# JYYSILDE_HOME=/home/hanzhe/Documents/Repos/HaohahaPPT/jyyslide-md
 # MYSLIDE_HOME=/home/hanzhe/Documents/Repos/HaohahaPPT
 
 SOURCE=$MYSLIDE_HOME/docs/$1
