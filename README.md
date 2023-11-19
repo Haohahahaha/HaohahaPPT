@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-bash scripts/install.sh
+./scripts/install.sh [YOUR_SHELL_NAME]
 ```
 
 ## Catalog
