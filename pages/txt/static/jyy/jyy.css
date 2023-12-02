@@ -52,7 +52,7 @@
 }
 
 .reveal th {
-    background-color: #eee;
+    background-color: #159f01;
 }
 
 .reveal tr:nth-child(even) {
@@ -84,7 +84,7 @@
 
 .reveal h2 {
     font-size: 48px;
-    border-bottom: 2px solid rgb(106, 0, 95);
+    border-bottom: 2px solid rgb(15, 103, 2);
     padding-bottom: 5px;
 }
 
@@ -110,7 +110,7 @@
 .reveal pre {
     font-size: 28px;
 
-    background-color: #eee;
+    background-color: #159f01;
 
     border-radius: 3mm;
     padding: 10px 10px 10px 10px;
@@ -126,7 +126,7 @@
 
 .reveal .middle blockquote {
     text-align: center;
-    color: rgb(106, 0, 95);
+    color: rgb(15, 103, 2);
     background: none;
     box-shadow: none;
 }
