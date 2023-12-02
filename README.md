@@ -7,3 +7,5 @@
 ## Catalog
 
 ### [test](./pages/test/index.html)
+
+### [haohaha](./pages/haohaha/index.html)
