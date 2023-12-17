@@ -1,5 +1,3 @@
-# Haohaha's PPTs Repo
-
 > Author: Haohahahaha (Haorui Zhang)
 
 ## 毕业设计
