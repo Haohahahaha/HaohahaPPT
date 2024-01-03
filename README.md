@@ -11,3 +11,5 @@
 ## OSCA
 
 ### [OSCA-23-12-10](./pages/OSCA-23-12-10/index.html)
+
+### [cser-blog](./pages/cser-blog/index.html)
