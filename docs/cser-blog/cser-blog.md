@@ -1,14 +1,31 @@
+{
+    "author": {
+        "name": "赵博韬",
+        "url": "https://xmbtx.github.io/xmbtx-blog/"
+    },
+    "departments": [
+        {
+            "name": "北京印刷学院",
+            "url": "https://www.bigc.edu.cn/",
+            "img_url": "./img/bigc-logo.jpg"
+        },
+        {
+            "name": "信息工程学院",
+            "url": "https://mie.bigc.edu.cn/",
+            "img_url": "./img/mie-logo.png"
+        },
+        {
+            "name": "OSCA项目组",
+            "url": "http://cs.haohaha.cn/greenhand/recruit/recruit/",
+            "img_url": "./img/osca-logo.png"
+        }
+    ]
+}
++++++
+
 # 程序员写博客指南
 
-> 主讲人：赵博韬
->
-> 2024-01-03
->
-> N3A-209
-
 ---
-
-
 
 ## README
 
@@ -23,8 +40,6 @@
 **1. 排版规范化。**排版规范化可以帮助我这种强迫症不必要纠结具体的格式，参考先进的排版规范会大大提高我们文章的可读性；
 
 **2. 选题系统化。**技术博客说来说去也就是几种常见的内容类型，不同类型对应不同的场景与写作需求，需要我们花费不同的时间去完成。做一下简单的梳理帮助我们不必要苦恼内容的来源与分类；
-
-**3. 维护简单化。**从功利的角度来讲，除非你是前端工程师，否则你的博客做得再花哨也不会为你的面试加分多少。理想的模式是我们只负责内容，博客的编译、发布、运行都交由第三方工具和服务商来完成。
 
 ---
 
@@ -256,18 +271,6 @@
 8. 加入一点点自己的情感，博客和文档是不一样的。 
 9. 记得在文章开始配上 README 性质的引言。 
 10. 博客并非一次性写作，我们需要后续不断对历史文章进行校正、丰富、优化。 
-
----
-
-## 三、维护简单化
-
-参考博客技术选型是：
-
-> - 使用 [Hexo](https://link.zhihu.com/?target=https%3A//github.com/hexojs/hexo) 进行博客内容原信息的 META 管理、编译生成博客页面；
-> - 使用 [NexT](https://link.zhihu.com/?target=https%3A//github.com/theme-next/hexo-theme-next) 这一经典、稳定的博客主题；
-> - 使用 [飞书文档](https://link.zhihu.com/?target=https%3A//www.feishu.cn/product/docs) 来编写博客内容，点击博客文章标题会跳转到对应的飞书文档。
-
-实现这一方案需要对 Hexo 和 NexT 的源代码做一点小改动，准备了一个 [开源仓库](https://link.zhihu.com/?target=https%3A//github.com/RavenLite/hexo-next-index) 包含了这些改动。
 
 ---
 
