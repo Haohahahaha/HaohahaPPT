@@ -16,4 +16,4 @@
 
 ---
 <a href="https://beian.miit.gov.cn/" target="_blank">冀ICP备2024078994号</a><br/>
-Copyright &copy; 2022-现在 浩哈哈哈哈_ # 左下角的版权声明
+Copyright &copy; 2022-现在 浩哈哈哈哈_ 
