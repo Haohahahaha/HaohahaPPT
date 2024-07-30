@@ -16,4 +16,5 @@
 
 ---
 <a href="https://beian.miit.gov.cn/" target="_blank">冀ICP备2024078994号</a><br/>
+<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=13020302001386" target="_blank">冀公网安备13020302001386号</a><br/>
 Copyright &copy; 2022-现在 浩哈哈哈哈_ 
